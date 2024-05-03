@@ -1,15 +1,14 @@
 
-const num1 = +(prompt("Inserisci Numero 1"));
-const num2 = +(prompt("Inserisci Numero 2"));
-const num3 = +(prompt("Inserisci Numero 3"));
-const num4 = +(prompt("Inserisci Numero 4"));
-const num5 = +(prompt("Inserisci Numero 5"));
-const num6 = +(prompt("Inserisci Numero 6"));
-const num7 = +(prompt("Inserisci Numero 7"));
-const num8 = +(prompt("Inserisci Numero 8"));
-const num9 = +(prompt("Inserisci Numero 9"));
-const num10 = +(prompt("Inserisci Numero 10"));
+const num1 = +(prompt("Inserisci Numero 1")); //CHIEDO IL PRIMO NUMERO ALL'UTENTE E LO TRASFORMO DA STRING A NUMBER
+const num2 = +(prompt("Inserisci Numero 2")); //CHIEDO IL SECONDO NUMERO ALL'UTENTE E LO TRASFORMO DA STRING A NUMBER
+const num3 = +(prompt("Inserisci Numero 3")); //CHIEDO IL TERZO NUMERO ALL'UTENTE E LO TRASFORMO DA STRING A NUMBER
+const num4 = +(prompt("Inserisci Numero 4")); //CHIEDO IL QUARTO NUMERO ALL'UTENTE E LO TRASFORMO DA STRING A NUMBER
+const num5 = +(prompt("Inserisci Numero 5")); //CHIEDO IL QUINTO NUMERO ALL'UTENTE E LO TRASFORMO DA STRING A NUMBER
+const num6 = +(prompt("Inserisci Numero 6")); //CHIEDO IL SESTO NUMERO ALL'UTENTE E LO TRASFORMO DA STRING A NUMBER
+const num7 = +(prompt("Inserisci Numero 7")); //CHIEDO IL SETTIMO NUMERO ALL'UTENTE E LO TRASFORMO DA STRING A NUMBER
+const num8 = +(prompt("Inserisci Numero 8")); //CHIEDO IL OTTAVO NUMERO ALL'UTENTE E LO TRASFORMO DA STRING A NUMBER
+const num9 = +(prompt("Inserisci Numero 9")); //CHIEDO IL NONO NUMERO ALL'UTENTE E LO TRASFORMO DA STRING A NUMBER
+const num10 = +(prompt("Inserisci Numero 10")); //CHIEDO IL DECIMO NUMERO ALL'UTENTE E LO TRASFORMO DA STRING A NUMBER
 
-
-const somma = num1+num2+num3+num4+num5+num6+num7+num8+num9+num10;
-console.log (somma);
+const somma = num1+num2+num3+num4+num5+num6+num7+num8+num9+num10;//FACCIO LA SOMMA DEI 10 NUMERI
+console.log (somma);//STAMPO IN CONSOLE LA SOMMA DEI 10 NUMERI

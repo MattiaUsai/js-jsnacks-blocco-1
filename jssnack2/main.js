@@ -5,8 +5,8 @@
 // altrimenti stampo prima la seconda poi la prima
 
 
-const firstWord = prompt("inserisci la prima parola");
-const secondWord = prompt("inserisci la seconda parola");
+const firstWord = prompt("inserisci la prima parola");//chiedo la prima parola
+const secondWord = prompt("inserisci la seconda parola");//chiedo la seconda parola
 
 if (firstWord.length>secondWord.length){
     console.log (`${secondWord} ${firstWord}`)

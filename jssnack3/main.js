@@ -12,3 +12,5 @@ const num10 = +(prompt("Inserisci Numero 10")); //CHIEDO IL DECIMO NUMERO ALL'UT
 
 const somma = num1+num2+num3+num4+num5+num6+num7+num8+num9+num10;//FACCIO LA SOMMA DEI 10 NUMERI
 console.log (somma);//STAMPO IN CONSOLE LA SOMMA DEI 10 NUMERI
+
+
